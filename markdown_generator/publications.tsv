@@ -1,0 +1,6 @@
+pub_date	title	venue	excerpt	citation	url_slug	paper_url	slides_url
+
+2024-01-25	Multi-Period Power System Risk Minimization Under Wildfire Disruptions	IEEE Transactions on Power Systems	This paper is about mitigating the wildfire risk in power system.	H. Yang, N. Rhodes, H. Yang, L. Roald, and L. Ntaimo. (2024). “Multi-Period Power System Risk Minimization Under Wildfire Disruptions.” IEEE Transactions on Power Systems, vol. 39, no. 5, pp. 6305-6318, Sept. 2024.	paper-title-number-1	https://ieeexplore.ieee.org/abstract/document/10414386	https://github.com/YANG-Hanbin/YANG-Hanbin.github.io/blob/master/files/wildfire_presentation.pdf
+
+2024-09-01	Multistage stochastic program for mitigating power system risks under wildfire disruptions	Electric Power Systems Research	This paper is about mitigating the wildfire risk in power system.	H. Yang, N. Rhodes, H. Yang, L. Roald, and L. Ntaimo. (2024). “Multistage stochastic program for mitigating power system risks under wildfire disruptions.” In Proceedings of the 23rd Power Systems Computation Conference (PSCC 2024), Electric Power Systems Research, 234:110773.	paper-title-number-2	https://www.sciencedirect.com/science/article/pii/S037877962400659X	https://github.com/YANG-Hanbin/YANG-Hanbin.github.io/blob/master/files/multistage_wildfire.pdf
+

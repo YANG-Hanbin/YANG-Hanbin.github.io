@@ -1,0 +1,12 @@
+title	type	url_slug	venue	date	location	talk_url	description
+
+
+“Enhancement Techniques for Lagrangian Cut”	Talk	International Conference on Stochastic Programming	UCDavis	2023-07-17	Davis, CA	https://na.eventscloud.com/website/40825/home/	Exhibited the properties of Lagrangian cuts and showed how to enhance Lagrangian cuts.
+
+“Multistage Stochastic Program for Mitigating Power System Risks under Wildfire Disruptions”	Talk	2023 INFORMS Annual Meeting	Phoenix Convention Center	2023-10-15	Phoenix, AZ	https://meetings.informs.org/wordpress/phoenix2023/	I chaired a session on "Optimization under Uncertainty in Power Systems" at the conference. For details of the presentation, please see the [slides](https://github.com/YANG-Hanbin/YANG-Hanbin.github.io/blob/master/files/wildfire_presentation.pdf).
+
+“Multistage Stochastic Program for Mitigating Power System Risks under Wildfire Disruptions”	Talk	23rd Power Systems Computation Conference (PSCC 2024)	Paris, France	2024-06-07	Paris, France	https://pscc2024.fr	For details of the presentation, please see the [slides](https://github.com/YANG-Hanbin/YANG-Hanbin.github.io/blob/master/files/multistage_wildfire.pdf)
+
+“Stochastic Cutting-plane Dynamic integer Programming”	Talk	25th International Symposium on Mathematical Programming	Montreal, Canada	2024-07-25	Montreal, Canada	https://ismp2024.gerad.ca	A new work about using disjunctive cuts to tighten Benders' cuts.
+
+“Globally Converging Algorithm for Multistage Stochastic Mixed-Integer Programs via Enhanced Lagrangian Cuts”	Talk	2024 INFORMS Annual Meeting	Seattle	2024-10-20	Seattle	https://meetings.informs.org/wordpress/seattle2024/	A globally converging algorithm for MS-MIP.
