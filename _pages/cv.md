@@ -48,13 +48,11 @@ Publications
 # Preprints
 
 1. H-B. Yang, L. Yang, J. Pan, Y. Wang. "Reinforcement Learning for Branch-and-Cutting-Plane-Tree in Mixed-Integer Programming," submitted.
-2. Y. Zhou, Y. Xia, H-B. Yang, and T. Morstyn. "Strengthened and Faster Linear Approximation to Joint Chance Constraints with Wasserstein Ambiguity," submitted.[[arXiv]](https://arxiv.org/abs/2412.12992)
-3. H-B. Yang, H. Yang. "Globally Converging Algorithm for Multistage Stochastic Mixed-Integer Programs via Enhanced Lagrangian Cuts," submitted.[[Optimization-Online]](https://optimization-online.org/?p=29960)
+2. Y. Zhou, Y. Xia, H-B. Yang, and T. Morstyn. "Strengthened and Faster Linear Approximation to Joint Chance Constraints with Wasserstein Ambiguity," major in INFORMS Journal on Computing.[[arXiv]](https://arxiv.org/abs/2412.12992)
+3. H-B. Yang, H. Yang. "Globally Converging Algorithm for Multistage Stochastic Mixed-Integer Programs via Enhanced Lagrangian Cuts," submitted to Operations Research.[[Optimization-Online]](https://optimization-online.org/?p=29960)
 4. Y. Zhou, H-B. Yang, and T. Morstyn. "Faster Inner Convex Approximation to Wasserstein Joint Chance Constrained Power System Dispatch," submitted to IEEE Transactions on Power Systems.[[arXiv]](https://arxiv.org/abs/2506.18806)
 5. H-B. Yang, H. Yang. "Multi-term Disjunctive Benders Cuts in Multistage Stochastic Mixed-Integer Programming."
-6. H-B. Yang, H. Yang, B. Pagnoncelli. "Contextual Chance-Constrained Optimization for Optimal Power Flow."
-
-
+6. H-B. Yang, G. Lyu. “Distribution-free model-agnostic uncertainty quantification calibration via nonparametric methods.”
 
 
 
@@ -74,8 +72,10 @@ Publications
    - 25th International Symposium on Mathematical Programming, Montreal, Canada, July 25th, 2024.
    - Operations Research Society of China, Beijing, Sept. 14th, 2024.
    - International Conference on Stochastic Programming, Paris, France, July 29th, 2025. 
+   - The 2nd Management Forum, Xi’an, China, Dec 6th, 2025.
 5. H-B. Yang, H. Yang, “Globally Converging Algorithm for Multistage Stochastic Mixed-Integer Programs via Enhanced Lagrangian Cuts”:
    - INFORMS Annual Meeting, Seattle, Oct. 21st, 2024 (Session chair).
+   - Global Forum for Young Mathematicians, Shenzhen, China, Nov 29th, 2025.
 
 Teaching
 ======
