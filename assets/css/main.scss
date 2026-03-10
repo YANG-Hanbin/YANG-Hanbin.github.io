@@ -40,60 +40,93 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Simple profile layout inspired by a clean Google Sites style. */
-.profile-page {
-  max-width: 860px;
+/* Clean layout inspired by a classic academic homepage style. */
+.hb-page {
   margin: 0 auto;
+  max-width: 900px;
 }
 
-.profile-page p {
+.hb-page a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.hb-hero {
+  background: linear-gradient(180deg, #f8fbff 0%, #ffffff 100%);
+  border: 1px solid #e6ebf1;
+  border-radius: 8px;
+  margin-bottom: 1.8rem;
+  padding: 1.35rem 1.5rem;
+}
+
+.hb-kicker {
+  color: #5f6d7a;
+  font-size: 0.86rem;
+  letter-spacing: 0.03em;
+  margin: 0 0 0.35rem;
+  text-transform: uppercase;
+}
+
+.hb-hero h2 {
+  font-size: 1.72rem;
+  margin: 0 0 0.65rem;
+}
+
+.hb-hero p,
+.hb-page p {
   line-height: 1.75;
 }
 
-.profile-nav-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  margin: 1.25rem 0;
-}
-
-.profile-nav-links a {
-  border: 1px solid #d0d7de;
-  border-radius: 4px;
-  color: #1f2328;
-  padding: 0.35rem 0.8rem;
-  text-decoration: none;
-}
-
-.profile-nav-links a:hover {
-  border-color: #8c959f;
-  text-decoration: none;
-}
-
-.profile-page .section-block {
-  border-top: 1px solid #e5e7eb;
-  margin-top: 1.6rem;
+.hb-section {
+  border-top: 1px solid #e8eaee;
+  margin-top: 1.45rem;
   padding-top: 1.2rem;
 }
 
-.profile-page .section-block h2 {
-  font-size: 1.35rem;
-  margin-bottom: 0.8rem;
+.hb-section h2 {
+  font-size: 1.34rem;
+  margin: 0 0 0.75rem;
 }
 
-.profile-page li {
-  margin-bottom: 0.5rem;
+.hb-section li {
+  margin-bottom: 0.52rem;
 }
 
-.cv-embed object {
-  border: 1px solid #d1d5db;
-  border-radius: 4px;
+.hb-contact-list {
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+}
+
+.hb-note {
+  color: #5d6670;
+  font-size: 0.94rem;
+}
+
+.hb-cv-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin: 0.9rem 0 1rem;
+}
+
+.hb-cv-frame {
+  border: 1px solid #d6dbe2;
+  border-radius: 6px;
   height: 980px;
   width: 100%;
 }
 
 @media (max-width: 768px) {
-  .cv-embed object {
+  .hb-hero {
+    padding: 1.05rem 1.1rem;
+  }
+
+  .hb-hero h2 {
+    font-size: 1.42rem;
+  }
+
+  .hb-cv-frame {
     height: 72vh;
   }
 }
