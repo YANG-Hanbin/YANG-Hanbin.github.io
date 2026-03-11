@@ -26,10 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Research Fellow at HKUST Business School"
   location         : "Hong Kong SAR, China"
-  employer         : "Hong Kong University of Science and Technology"
+  # employer         : "Hong Kong University of Science and Technology"
   uri              : # URL
   email            : "hanbinyang1228@gmail.com"
-  email_secondary  : "hanbinyang@ust.hk"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

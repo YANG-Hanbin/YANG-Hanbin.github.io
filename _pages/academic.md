@@ -17,7 +17,9 @@ author_profile: true
     <h2>Publications</h2>
     <p class="hb-note">Selected publications are listed below in the same format as the original publications page.</p>
     {% for post in site.publications reversed %}
-      {% include archive-single.html %}
+      {% unless post.permalink == '/publication/2025-01-01-paper-title-number-3' %}
+        {% include archive-single.html %}
+      {% endunless %}
     {% endfor %}
   </section>
 
@@ -26,10 +28,11 @@ author_profile: true
     <ol>
       <li>H-B. Yang, L. Yang, J. Pan, Y. Wang. "Reinforcement Learning for Branch-and-Cutting-Plane-Tree in Mixed-Integer Programming." Submitted.</li>
       <li>H-B. Yang, H. Yang. "Globally Converging Algorithm for Multistage Stochastic Mixed-Integer Programs via Enhanced Lagrangian Cuts." Submitted to <em>Operations Research</em>. <a href="https://optimization-online.org/?p=29960">[Optimization-Online]</a></li>
+      <li>Y. Zhou, Y. Xia, H-B. Yang, and T. Morstyn. "Strengthened and Faster Linear Approximation to Joint Chance Constraints with Wasserstein Ambiguity." Minor revision in <em>INFORMS Journal on Computing (IJoC)</em>. <a href="https://arxiv.org/abs/2412.12992">[arXiv]</a></li>
       <li>Y. Zhou, H-B. Yang, and T. Morstyn. "Faster Inner Convex Approximation to Wasserstein Joint Chance Constrained Power System Dispatch." Submitted to <em>IEEE Transactions on Power Systems</em>. <a href="https://arxiv.org/abs/2506.18806">[arXiv]</a></li>
-      <li>H-B. Yang, H. Yang. "Disjunctive Benders Cuts in Multistage Stochastic Mixed-Integer Programming." Submitted to <em>Operations Research</em>.</li>
-      <li>H-B. Yang, G. Lyu. "Distribution-free model-agnostic uncertainty quantification calibration via nonparametric methods."</li>
-      <li>Z. Cao, H-B. Yang, Z. Wang. "Data-Driven Optimization with (Robust) Stochastic Dominance Constraints."</li>
+      <li>H-B. Yang, H. Yang. "Disjunctive Benders Cuts in Multistage Stochastic Mixed-Integer Programming." </li>
+      <!-- <li>H-B. Yang, G. Lyu. "Distribution-free model-agnostic uncertainty quantification calibration via nonparametric methods."</li>
+      <li>Z. Cao, H-B. Yang, Z. Wang. "Data-Driven Optimization with (Robust) Stochastic Dominance Constraints."</li> -->
     </ol>
   </section>
 
