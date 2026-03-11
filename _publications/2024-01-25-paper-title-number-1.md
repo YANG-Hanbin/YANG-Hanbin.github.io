@@ -9,10 +9,10 @@ slidesurl: '/files/wildfire_presentation.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10414386'
 citation: 'H-B. Yang, N. Rhodes, H. Yang, L. Roald, and L. Ntaimo. (2024). “Multi-Period Power System Risk Minimization Under Wildfire Disruptions.” IEEE Transactions on Power Systems, vol. 39, no. 5, pp. 6305-6318, Sept. 2024.'
 ---
-This work studies power system risk mitigation under wildfire disruptions using multistage stochastic mixed-integer optimization.
+This work studies multi-period power system risk mitigation under wildfire disruptions using a two-stage stochastic mixed-integer optimization.
 
-[Download slides here](/files/wildfire_presentation.pdf)
+<!-- [Download slides here](/files/wildfire_presentation.pdf)
 
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/10414386)
 
-Recommended citation: H-B. Yang, N. Rhodes, H. Yang, L. Roald, and L. Ntaimo. (2024). “Multi-Period Power System Risk Minimization Under Wildfire Disruptions.” IEEE Transactions on Power Systems, vol. 39, no. 5, pp. 6305-6318, Sept. 2024.
+Recommended citation: H-B. Yang, N. Rhodes, H. Yang, L. Roald, and L. Ntaimo. (2024). “Multi-Period Power System Risk Minimization Under Wildfire Disruptions.” IEEE Transactions on Power Systems, vol. 39, no. 5, pp. 6305-6318, Sept. 2024. -->

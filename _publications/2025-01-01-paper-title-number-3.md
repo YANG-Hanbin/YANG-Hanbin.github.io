@@ -12,4 +12,4 @@ This paper develops a strengthened and faster linear approximation approach for 
 
 [Read preprint on arXiv](https://arxiv.org/abs/2412.12992)
 
-Recommended citation: Y. Zhou, Y. Xia, H-B. Yang, and T. Morstyn. “Strengthened and Faster Linear Approximation to Joint Chance Constraints with Wasserstein Ambiguity.” Minor revision in INFORMS Journal on Computing (IJoC).
+<!-- Recommended citation: Y. Zhou, Y. Xia, H-B. Yang, and T. Morstyn. “Strengthened and Faster Linear Approximation to Joint Chance Constraints with Wasserstein Ambiguity.” Minor revision in INFORMS Journal on Computing (IJoC). -->

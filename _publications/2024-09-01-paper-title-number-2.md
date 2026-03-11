@@ -11,8 +11,8 @@ citation: 'H-B. Yang, N. Rhodes, H. Yang, L. Roald, and L. Ntaimo. (2024). “Mu
 ---
 This paper presents a multistage stochastic program for mitigating wildfire-related operational risks in power systems.
 
-[Download slides here](/files/multistage_wildfire.pdf)
+<!-- [Download slides here](/files/multistage_wildfire.pdf)
 
-[Download paper here](https://www.sciencedirect.com/science/article/pii/S037877962400659X)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S037877962400659X) -->
 
-Recommended citation: H-B. Yang, N. Rhodes, H. Yang, L. Roald, and L. Ntaimo. (2024). “Multistage stochastic program for mitigating power system risks under wildfire disruptions.” In Proceedings of the 23rd Power Systems Computation Conference (PSCC 2024), Electric Power Systems Research, 234:110773.
+<!-- Recommended citation: H-B. Yang, N. Rhodes, H. Yang, L. Roald, and L. Ntaimo. (2024). “Multistage stochastic program for mitigating power system risks under wildfire disruptions.” In Proceedings of the 23rd Power Systems Computation Conference (PSCC 2024), Electric Power Systems Research, 234:110773. -->
