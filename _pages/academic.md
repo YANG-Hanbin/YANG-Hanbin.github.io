@@ -2,7 +2,7 @@
 layout: single
 title: "Academic"
 permalink: /academic/
-author_profile: false
+author_profile: true
 ---
 
 {% include base_path %}

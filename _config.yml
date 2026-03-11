@@ -21,14 +21,15 @@ repository               : "YANG-Hanbin"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hanbin.pdf"
+  avatar           : "hanbin.jpg"
   name             : "Hanbin Yang"
   pronouns         : # example: "she/her"  
   bio              : "Research Fellow at HKUST Business School"
   location         : "Hong Kong SAR, China"
   employer         : "Hong Kong University of Science and Technology"
-  uri              : "https://yang-hanbin.github.io"
+  uri              : # URL
   email            : "hanbinyang1228@gmail.com"
+  email_secondary  : "hanbinyang@ust.hk"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

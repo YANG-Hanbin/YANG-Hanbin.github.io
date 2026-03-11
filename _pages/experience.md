@@ -2,15 +2,15 @@
 layout: single
 title: "Experience"
 permalink: /experience/
-author_profile: false
+author_profile: true
 ---
 
 <div class="hb-page">
   <section class="hb-section">
     <h2>Education</h2>
     <ul>
-      <li><strong>The Chinese University of Hong Kong, Shenzhen (CUHKSZ)</strong>, Shenzhen, China<br>Ph.D. in Data Science, School of Data Science, 2020 - 2025 (GPA: 3.80/4.00)</li>
-      <li><strong>Southern University of Science and Technology (SUSTech)</strong>, Shenzhen, China<br>B.S. in Statistics, Department of Mathematics, 2016 - 2020 (GPA: 3.71/4.00, Major GPA: 3.84/4.00)</li>
+      <li><strong>The Chinese University of Hong Kong, Shenzhen (CUHKSZ)</strong>, Shenzhen, China<br>Ph.D. in Data Science, School of Data Science, 2020 - 2025</li>
+      <li><strong>Southern University of Science and Technology (SUSTech)</strong>, Shenzhen, China<br>B.S. in Statistics, Department of Mathematics, 2016 - 2020</li>
       <li><strong>Georgia Institute of Technology</strong>, Atlanta, USA<br>Summer Exchange Program, Summer 2018</li>
     </ul>
   </section>

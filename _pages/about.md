@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hanbin Yang"
-author_profile: false
+author_profile: true
 redirect_from:
   - /about/
   - /about.html
@@ -30,13 +30,4 @@ redirect_from:
     </p>
   </section>
 
-  <section class="hb-section">
-    <h2>Contact</h2>
-    <ul class="hb-contact-list">
-      <li>Email: <a href="mailto:hanbinyang1228@gmail.com">hanbinyang1228@gmail.com</a> | <a href="mailto:hanbinyang@ust.hk">hanbinyang@ust.hk</a></li>
-      <li>Google Scholar: <a href="https://scholar.google.com/citations?user=Qw00cY8AAAAJ&hl=en">Profile</a></li>
-      <li>LinkedIn: <a href="https://www.linkedin.com/in/hanbin-yang-5a2305281/">hanbin-yang-5a2305281</a></li>
-      <li>GitHub: <a href="https://github.com/YANG-Hanbin">YANG-Hanbin</a></li>
-    </ul>
-  </section>
 </div>
