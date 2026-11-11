@@ -70,7 +70,6 @@
   group: working
   title: Faster Inner Convex Approximation to Wasserstein Joint Chance Constrained Power System Dispatch
   authors: 'Y. Zhou, <strong>H.-B. Yang</strong>, and T. Morstyn'
-  venue: IEEE Transactions on Power Systems
   status: Submitted
   tag: Chance constraints
   image: /images/research/fica.png
@@ -84,7 +83,6 @@
   group: working
   title: Locally Valid Dantzig–Wolfe Optimality Cuts for Stochastic Mixed-Integer Programs
   authors: '<strong>H.-B. Yang</strong> and G. Lyu'
-  venue: Mathematical Programming
   status: Submitted
   tag: Decomposition
   image: /images/research/local-recourse-envelope.png
@@ -100,7 +98,6 @@
   group: working
   title: 'Contextual Distributionally Robust Chance Constraints: Exact Reformulations and Valid Inequalities'
   authors: '<strong>H.-B. Yang</strong>, N. Jiang, and G. Lyu'
-  venue: Operations Research
   status: Submitted
   tag: Robust optimization
   image: /images/research/contextual.png
@@ -114,7 +111,6 @@
   group: working
   title: Finite-Sample Probabilistic Safety Certification for AI-Based Grid Operation
   authors: 'Y. Zhou, <strong>H.-B. Yang</strong>, and T. Morstyn'
-  venue: IEEE Transactions on Smart Grid
   status: Submitted
   tag: Safety certification
   image: /images/research/safety.png
