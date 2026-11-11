@@ -18,8 +18,8 @@ author_profile: true
   <section class="hb-section">
     <h2>Professional Experience</h2>
     <ul>
-      <li><strong>Hong Kong University of Science and Technology (HKUST)</strong>, Hong Kong, China<br>Research Fellow, Business School, 2025.09 - Present<br>Advisor: Prof. Guodong Lyu</li>
-      <li><strong>Cornell Tech, Cornell University</strong>, New York, USA<br>Research Visitor, 2023.06 - 2023.08<br>Mentors: Prof. Rui Chen and Prof. Andrea Lodi</li>
+      <li><strong>Hong Kong University of Science and Technology (HKUST)</strong>, Hong Kong, China<br>Postdoctoral Fellow, Business School, 2025.09 - Present<br>Advisor: Prof. Guodong Lyu</li>
+      <li><strong>Cornell Tech, Cornell University</strong>, New York, USA<br>Visiting Scholar, 2023.06 - 2023.08<br>Mentors: Prof. Rui Chen and Prof. Andrea Lodi</li>
     </ul>
   </section>
 
@@ -37,6 +37,14 @@ author_profile: true
       <li><strong>Instructor at CUHKSZ</strong>: Probability and Statistics (Summer 2022, 2023, 2024); Calculus, Linear Algebra, and Probability (Summer 2025)</li>
       <li><strong>Teaching Assistant at CUHKSZ</strong>: DDA6112 Stochastic Optimization (Spring 2024); MFE5100 Optimization (Spring 2022); MAT3007 Optimization (Fall 2021, 2022); STA4005 Survival Analysis (Spring 2021); STA4001 Stochastic Processes (Fall 2020)</li>
       <li><strong>Teaching Assistant at SUSTech</strong>: Multivariate Regression Analysis (Spring 2020); Linear Regression (Fall 2019)</li>
+    </ul>
+  </section>
+
+  <section class="hb-section">
+    <h2>Mentoring</h2>
+    <ul>
+      <li>Zhen Cao, Ph.D. student at Shanghai University of Finance and Economics</li>
+      <li>Chenshi Jia, Ph.D. student at Southwestern University of Finance and Economics</li>
     </ul>
   </section>
 </div>

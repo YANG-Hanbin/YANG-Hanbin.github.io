@@ -11,7 +11,7 @@ redirect_from:
   <section class="hb-hero">
     <p class="hb-kicker">Operations Research | Optimization Under Uncertainty</p>
     <p>
-      I am currently a Research Fellow in the Department of Information Systems, Business Statistics and Operations Management (ISOM) at the Hong Kong University of Science and Technology, working with
+      I am currently a Postdoctoral Fellow in the Department of Information Systems, Business Statistics and Operations Management (ISOM) at the Hong Kong University of Science and Technology, working with
       <a href="https://isom.hkust.edu.hk/faculty-and-staff/directory/imlyu">Prof. Guodong Lyu</a>.
     </p>
     <p>
