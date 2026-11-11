@@ -89,7 +89,7 @@
   image_alt: Local Recourse Envelope after screening, from the INFORMS 2026 slides
   summary: Dantzig–Wolfe optimality cuts that use restricted regions in stochastic mixed-integer optimization.
   links:
-    - label: Preprint
+    - label: SSRN
       url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7126720
     - label: Slides
       url: /files/slides/locally-valid-dantzig-wolfe-informs-2026.pdf
