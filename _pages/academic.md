@@ -26,13 +26,10 @@ author_profile: true
       <li><strong>H.-B. Yang</strong> and H. Yang. "Globally Converging Algorithm for Multistage Stochastic Mixed-Integer Programs via Enhanced Lagrangian Cuts." Major revision at <em>Operations Research</em>. <a href="https://optimization-online.org/2025/04/globally-converging-algorithm-for-multistage-stochastic-mixed-integer-programs-via-enhanced-lagrangian-cuts/">[Preprint]</a></li>
       <li>Y. Zhou, <strong>H.-B. Yang</strong>, and T. Morstyn. "Faster Inner Convex Approximation to Wasserstein Joint Chance Constrained Power System Dispatch." Submitted to <em>IEEE Transactions on Power Systems</em>. <a href="https://arxiv.org/abs/2506.18806">[Preprint]</a></li>
       <li><strong>H.-B. Yang</strong> and G. Lyu. "Locally Valid Dantzig–Wolfe Optimality Cuts for Stochastic Mixed-Integer Programs." Submitted to <em>Mathematical Programming</em>. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7126720">[Preprint]</a></li>
-      <li><strong>H.-B. Yang</strong>, Y. Zhou, B. Hao, and G. Lyu. "Concave-Envelope Cuts for Stochastic Mixed-Integer Bilevel Programs with an Application to Data-Center Placement." Submitted to <em>Operations Research</em>.</li>
       <li><strong>H.-B. Yang</strong>, N. Jiang, and G. Lyu. "Contextual Distributionally Robust Chance Constraints: Exact Reformulations and Valid Inequalities." Submitted to <em>Operations Research</em>. <a href="https://arxiv.org/abs/2609.23739">[Preprint]</a></li>
       <li>Y. Zhou, <strong>H.-B. Yang</strong>, and T. Morstyn. "Finite-Sample Probabilistic Safety Certification for AI-Based Grid Operation." Submitted to <em>IEEE Transactions on Smart Grid</em>. <a href="https://arxiv.org/pdf/2609.28182">[Preprint]</a></li>
       <li>(α-β) B. Hao, C. Michini, and <u><strong>H.-B. Yang</strong><sup>⋆</sup></u>. "Upper Bounds for Symmetric Matroid Congestion Games from Exchange Flow Expansion." To be submitted to IPCO 2026.</li>
       <li>(α-β) K. Fang and <u><strong>H.-B. Yang</strong><sup>⋆</sup></u>. "Integral-Valid Cut Selection for Benders Decomposition." To be submitted to <em>INFORMS Journal on Computing</em>.</li>
-      <li>(α-β) Z. Cao, Z. Wang, and <strong>H.-B. Yang</strong>. "Data-Driven Optimization with (Robust) Stochastic Dominance Constraints." In preparation.</li>
-      <li><strong>H.-B. Yang</strong>, Y. Zhou, G. Lyu, and T. Morstyn. "Multiscale Data-Center Expansion: A multistage stochastic bilevel programming approach." In preparation.</li>
     </ol>
   </section>
 
