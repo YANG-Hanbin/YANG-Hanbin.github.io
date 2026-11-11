@@ -43,7 +43,7 @@ redirect_from:
     <section class="section" aria-labelledby="selected-heading">
       <div class="section-heading"><h2 id="selected-heading">Selected research</h2><a href="{{ '/publications/' | relative_url }}">All publications →</a></div>
       <div class="featured-grid">
-        <a class="featured-card" href="{{ '/publications/#enhanced-lagrangian-cuts' | relative_url }}"><img src="{{ '/images/research/lagrangian.svg' | relative_url }}" alt="Cutting-plane approximation schematic" loading="lazy"><div><span>Stochastic optimization</span><h3>Enhanced Lagrangian cuts</h3></div></a>
+        <a class="featured-card" href="{{ '/publications/#enhanced-lagrangian-cuts' | relative_url }}"><img src="{{ '/images/research/lifted-envelope.png' | relative_url }}" alt="Convex envelope in the lifted space from the paper's lifting example" loading="lazy"><div><span>Stochastic optimization</span><h3>Enhanced Lagrangian cuts</h3></div></a>
         <a class="featured-card" href="{{ '/publications/#wasserstein-approximation' | relative_url }}"><img src="{{ '/images/research/sfla.png' | relative_url }}" alt="Chance-constraint approximation diagram" loading="lazy"><div><span>INFORMS JOC</span><h3>Faster joint chance constraints</h3></div></a>
         <a class="featured-card" href="{{ '/publications/#wildfire-risk' | relative_url }}"><img src="{{ '/images/research/wildfire.png' | relative_url }}" alt="Power network for wildfire risk mitigation" loading="lazy"><div><span>IEEE TPWRS</span><h3>Power-system wildfire risk</h3></div></a>
       </div>

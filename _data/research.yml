@@ -57,8 +57,8 @@
   venue: Operations Research
   status: Major revision
   tag: Stochastic optimization
-  image: /images/research/lagrangian.svg
-  image_alt: Schematic of cutting-plane approximations to a value function
+  image: /images/research/lifted-envelope.png
+  image_alt: Convex envelope in the lifted space from the paper's lifting example, Figure 2(b)
   summary: Enhanced Lagrangian cuts for solving multistage stochastic mixed-integer programs.
   links:
     - label: Preprint
@@ -85,8 +85,8 @@
   venue: Mathematical Programming
   status: Submitted
   tag: Decomposition
-  image: /images/research/dantzig-wolfe.svg
-  image_alt: Schematic of a locally valid cut over a restricted region
+  image: /images/research/local-recourse-envelope.png
+  image_alt: Local Recourse Envelope after screening, from the INFORMS 2026 slides
   summary: Dantzig–Wolfe optimality cuts that use restricted regions in stochastic mixed-integer optimization.
   links:
     - label: Preprint
@@ -138,6 +138,6 @@
   venue: INFORMS Journal on Computing
   status: To be submitted
   tag: Benders decomposition
-  image: /images/research/integral-cuts.svg
-  image_alt: Schematic of selecting cuts for integer feasible points
+  image: /images/research/integral-cut-planes.png
+  image_alt: Cut planes for integral-valid cut selection, Figure 3(b) of the manuscript
   summary: Cut selection for Benders decomposition with integer decision variables.
