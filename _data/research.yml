@@ -63,6 +63,8 @@
   links:
     - label: Preprint
       url: https://optimization-online.org/2025/04/globally-converging-algorithm-for-multistage-stochastic-mixed-integer-programs-via-enhanced-lagrangian-cuts/
+    - label: Slides
+      url: /files/slides/globally-converging-sustech-2025.pdf
 
 - id: inner-convex-approximation
   group: working
@@ -91,6 +93,8 @@
   links:
     - label: Preprint
       url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7126720
+    - label: Slides
+      url: /files/slides/locally-valid-dantzig-wolfe-informs-2026.pdf
 
 - id: contextual-chance-constraints
   group: working

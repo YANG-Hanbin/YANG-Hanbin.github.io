@@ -10,7 +10,7 @@ subtitle: Academic background, teaching experience, and student mentoring.
   <h2 id="education-heading">Education</h2>
 <article class="institution-entry">
   <a class="institution-logo" href="https://www.cuhk.edu.cn/en" aria-label="The Chinese University of Hong Kong, Shenzhen website"><span class="institution-crest-crop"><img src="{{ '/images/education/cuhksz-crest.png' | relative_url }}" alt="The Chinese University of Hong Kong, Shenzhen crest" width="639" height="735" loading="lazy"></span></a>
-  <div class="institution-body"><div class="institution-heading"><h3>The Chinese University of Hong Kong, Shenzhen</h3><p class="institution-date">2020 – 2025</p></div><p class="role">Ph.D. in Data Science · School of Data Science</p><p>Shenzhen, China</p></div>
+  <div class="institution-body"><div class="institution-heading"><h3>The Chinese University of Hong Kong, Shenzhen</h3><p class="institution-date">2020 – 2025</p></div><p class="role">Ph.D. in Data Science · School of Data Science</p><p>Shenzhen, China</p><div class="paper-links"><a class="pill-link" href="{{ '/files/slides/hanbin-yang-phd-defense-2025.pdf' | relative_url }}">Dissertation slides</a></div></div>
 </article>
 <article class="institution-entry">
   <a class="institution-logo" href="https://www.sustech.edu.cn/en/" aria-label="Southern University of Science and Technology website"><img src="{{ '/images/education/sustech.png' | relative_url }}" alt="Southern University of Science and Technology logo" width="112" height="112" loading="lazy"></a>
