@@ -17,7 +17,7 @@ subtitle: Academic background, teaching experience, and student mentoring.
   <div class="institution-body"><div class="institution-heading"><h3>Southern University of Science and Technology</h3><p class="institution-date">2016 – 2020</p></div><p class="role">B.S. in Statistics · Department of Mathematics</p><p>Shenzhen, China</p></div>
 </article>
 <article class="institution-entry">
-  <a class="institution-logo" href="https://www.gatech.edu/" aria-label="Georgia Institute of Technology website"><img src="{{ '/images/education/gatech-seal.svg' | relative_url }}" alt="Georgia Institute of Technology logo" width="112" height="112" loading="lazy"></a>
+  <a class="institution-logo" href="https://www.gatech.edu/" aria-label="Georgia Institute of Technology website"><img src="{{ '/images/education/gatech-logo.png' | relative_url }}" alt="Georgia Tech official gold GT logo" width="112" height="112" loading="lazy"></a>
   <div class="institution-body"><div class="institution-heading"><h3>Georgia Institute of Technology</h3><p class="institution-date">Summer 2018</p></div><p class="role">Summer Exchange Program</p><p>Atlanta, USA</p></div>
 </article>
 </section>

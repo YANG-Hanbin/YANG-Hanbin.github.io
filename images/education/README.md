@@ -4,7 +4,7 @@ University and organization marks identify the institutions in Hanbin Yang's edu
 
 - `cuhksz-crest.png`: the CUHK-Shenzhen crest asset displayed on [Haoxiang Yang's experience page](https://sites.google.com/view/haoxiangyang/experience), the user's layout reference. CSS displays the crest portion of the original transparent image, excluding the wordmark below it.
 - `sustech.png`: [SUSTech visual identity page](https://www.sustech.edu.cn/en/school_logo.html), [original emblem](https://www.sustech.edu.cn/uploads/logo1.png).
-- `gatech-seal.svg`: [Georgia Tech seal on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Georgia_Tech_seal.svg), [original SVG](https://upload.wikimedia.org/wikipedia/commons/6/6c/Georgia_Tech_seal.svg).
+- `gatech-logo.png`: official vertical institutional mark (no. 121), extracted from page 6 of the [Georgia Tech logo art sheet](https://licensing.gatech.edu/sites/default/files/2022-02/georgia-tech-logo-art-sheet-2021.pdf). Original layout and colors are preserved.
 - `hkust-symbol.svg`: symbol from the [official HKUST SVG](https://hkust.edu.hk/sites/default/files/2024-03/HKUST_logo_1.svg). The SVG viewBox displays the university symbol; the original vector paths and colors are unchanged.
 - `cornell-seal.svg`: [Cornell University's official seal SVG](https://www.cornell.edu/assets/core/images/logo-red.svg), used by its website theme.
 - `huawei-symbol.svg`: [Huawei's official symbol SVG](https://www.huawei.com/-/media/htemplate-home/1.0.1.20251205144752/components/assets/img/favicon-logo.svg), linked from its corporate homepage.

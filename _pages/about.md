@@ -30,14 +30,17 @@ redirect_from:
       <p>I am a Postdoctoral Fellow in the Department of Information Systems, Business Statistics and Operations Management (ISOM) at the Hong Kong University of Science and Technology, working with <a href="https://isom.hkust.edu.hk/faculty-and-staff/directory/imlyu">Prof. Guodong Lyu</a>.</p>
       <p>I received my Ph.D. in Data Science from <a href="https://sds.cuhk.edu.cn">The Chinese University of Hong Kong, Shenzhen</a>, and my B.S. in Statistics from <a href="https://math.sustech.edu.cn/?lang=en">Southern University of Science and Technology</a>.</p>
       <p>My research focuses on optimization under uncertainty, mixed-integer programming, and decomposition algorithms. I develop cutting-plane methods for large-scale decision problems, with applications in power systems and energy operations.</p>
+      <p>I am also interested in GPU-accelerated optimization and AI-based algorithm design. I am particularly motivated by real-world applications, where practical challenges inspire new models and algorithms.</p>
     </section>
     <section class="section" aria-labelledby="interests-heading">
       <div class="section-heading"><h2 id="interests-heading">Research interests</h2></div>
       <ul class="research-topics">
         <li><span>01</span>Stochastic and distributionally robust optimization</li>
         <li><span>02</span>Mixed-integer programming and decomposition</li>
-        <li><span>03</span>Learning-augmented optimization algorithms</li>
-        <li><span>04</span>Power systems and energy operations</li>
+        <li><span>03</span>GPU-accelerated optimization</li>
+        <li><span>04</span>AI-based algorithm design and learning-augmented optimization</li>
+        <li><span>05</span>Power systems and energy operations</li>
+        <li><span>06</span>Real-world applications of optimization</li>
       </ul>
     </section>
     <section class="section" aria-labelledby="selected-heading">
@@ -53,14 +56,6 @@ redirect_from:
       <ul class="compact-list">
         <li><strong>Session chair:</strong> INFORMS Annual Meeting (2023, 2024); POMS-HK 2027.</li>
         <li><strong>Reviewer:</strong> Mathematical Programming; Nature Communications; Automatica; IEEE Transactions on Energy Markets, Policy, and Regulation; Electric Power Systems Research; Power Systems Computation Conference.</li>
-      </ul>
-    </section>
-    <section class="section" aria-labelledby="awards-heading">
-      <div class="section-heading"><h2 id="awards-heading">Selected awards</h2></div>
-      <ul class="compact-list">
-        <li>Duan Yongping Travel Award for Outstanding Research, CUHKSZ (2023).</li>
-        <li>Outstanding Graduate Award, SUSTech (2020).</li>
-        <li>Scholarship for Outstanding Students, SUSTech (2017, 2018).</li>
       </ul>
     </section>
   </div>
