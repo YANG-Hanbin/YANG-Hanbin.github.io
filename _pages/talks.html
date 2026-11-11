@@ -1,16 +1,36 @@
 ---
-layout: archive
-title: "Talks and presentations"
+layout: profile
+title: Talks
 permalink: /talks/
-author_profile: true
+eyebrow: Conferences & seminars
+subtitle: Research presentations on stochastic optimization, cutting-plane methods, and power systems.
 ---
 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<ol class="talk-list">
+  <li class="talk-item"><span class="talk-number">01</span><div>
+    <h2>Locally Valid Dantzig–Wolfe Optimality Cuts for Stochastic Mixed-Integer Programs</h2>
+    <ul><li>INFORMS Annual Meeting · San Francisco · Nov. 2026</li><li>POMS-HK · Guangzhou · Jan. 2027 · Session Chair</li></ul>
+  </div></li>
+  <li class="talk-item"><span class="talk-number">02</span><div>
+    <h2>Globally Converging Algorithm for Multistage Stochastic Mixed-Integer Programs</h2>
+    <ul><li>Global Forum for Young Mathematicians · Shenzhen · Nov. 29, 2025</li><li>INFORMS Annual Meeting · Seattle · Oct. 2024 · Session Chair</li></ul>
+  </div></li>
+  <li class="talk-item"><span class="talk-number">03</span><div>
+    <h2>Efficient Cutting-Plane Methods for Multistage Stochastic Mixed-Integer Programming</h2>
+    <ul><li>The 2nd Management Forum · Xi'an · Dec. 6, 2025</li><li>International Conference on Stochastic Programming · Paris · Aug. 1, 2025</li><li>Annual Conference of the Data Science and Operations Intelligence Chapter, Operations Research Society of China · Beijing · Sept. 15, 2024</li><li>25th International Symposium on Mathematical Programming · Montreal · July 25, 2024</li></ul>
+  </div></li>
+  <li class="talk-item"><span class="talk-number">04</span><div>
+    <h2>Multistage Stochastic Program for Mitigating Power System Risks under Wildfire Disruptions</h2>
+    <ul><li>INFORMS Annual Meeting · Seattle · Oct. 2024</li><li>23rd Power Systems Computation Conference (PSCC) · Paris · June 6, 2024</li><li>INFORMS Annual Meeting · Phoenix · Oct. 15, 2023 · Session Chair</li></ul>
+    <div class="paper-links"><a class="pill-link" href="{{ '/files/multistage_wildfire.pdf' | relative_url }}">PSCC slides</a><a class="pill-link" href="{{ '/publications/#multistage-wildfire' | relative_url }}">Paper</a></div>
+  </div></li>
+  <li class="talk-item"><span class="talk-number">05</span><div>
+    <h2>Enhancement Techniques for Lagrangian Cut</h2>
+    <ul><li>International Conference on Stochastic Programming · Davis · July 17, 2023</li><li>Alibaba DAMO Academy · Hangzhou · Sept. 23, 2022</li></ul>
+  </div></li>
+  <li class="talk-item"><span class="talk-number">06</span><div>
+    <h2>Multi-Period Power System Risk Minimization under Wildfire Disruptions</h2>
+    <ul><li>IEEE Student Association at CUHKSZ · Shenzhen · Sept. 22, 2023</li><li>INFORMS Annual Meeting · Online · June 6, 2022</li></ul>
+    <div class="paper-links"><a class="pill-link" href="{{ '/files/wildfire_presentation.pdf' | relative_url }}">Seminar slides</a><a class="pill-link" href="{{ '/publications/#wildfire-risk' | relative_url }}">Paper</a></div>
+  </div></li>
+</ol>

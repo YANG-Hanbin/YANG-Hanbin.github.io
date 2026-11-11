@@ -1,0 +1,143 @@
+- id: wasserstein-approximation
+  group: published
+  title: Strengthened and Faster Linear Approximation to Joint Chance Constraints with Wasserstein Ambiguity
+  authors: 'Y. Zhou, Y. Xia, <strong>H.-B. Yang</strong>, and T. Morstyn'
+  venue: INFORMS Journal on Computing
+  status: Accepted for publication
+  tag: INFORMS JOC
+  image: /images/research/sfla.png
+  image_alt: Relationships between the strengthened linear approximation and other chance-constraint formulations
+  summary: A strengthened linear approximation for joint chance constraints under Wasserstein ambiguity.
+  links:
+    - label: Paper
+      url: https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2024.1073
+    - label: arXiv
+      url: https://arxiv.org/abs/2412.12992
+
+- id: wildfire-risk
+  group: published
+  title: Multi-Period Power System Risk Minimization Under Wildfire Disruptions
+  authors: '<strong>H.-B. Yang</strong>, N. Rhodes, H. Yang, L. Roald, and L. Ntaimo'
+  venue: IEEE Transactions on Power Systems
+  status: '39(5): 6305–6318, 2024'
+  tag: IEEE TPWRS
+  image: /images/research/wildfire.png
+  image_alt: RTS-GMLC power network used to study wildfire risk mitigation
+  summary: A two-stage stochastic mixed-integer model for proactive power-system operations under wildfire disruptions.
+  links:
+    - label: Paper
+      url: https://ieeexplore.ieee.org/abstract/document/10414386
+    - label: arXiv
+      url: https://arxiv.org/abs/2305.02933
+    - label: Slides
+      url: /files/wildfire_presentation.pdf
+
+- id: multistage-wildfire
+  group: published
+  title: Multistage Stochastic Program for Mitigating Power System Risks under Wildfire Disruptions
+  authors: '<strong>H.-B. Yang</strong>, N. Rhodes, H. Yang, L. Roald, and L. Ntaimo'
+  venue: Electric Power Systems Research · PSCC 2024
+  status: '234: 110773, 2024'
+  tag: EPSR · PSCC
+  image: /images/research/multistage.png
+  image_alt: Scenario tree for sequential decisions under wildfire disruptions
+  summary: Multistage decisions that respond to the evolution of wildfire disruptions and their effects on the power grid.
+  links:
+    - label: Paper
+      url: https://www.sciencedirect.com/science/article/pii/S037877962400659X
+    - label: arXiv
+      url: https://arxiv.org/abs/2310.16544
+    - label: Slides
+      url: /files/multistage_wildfire.pdf
+
+- id: enhanced-lagrangian-cuts
+  group: working
+  title: Globally Converging Algorithm for Multistage Stochastic Mixed-Integer Programs via Enhanced Lagrangian Cuts
+  authors: '<strong>H.-B. Yang</strong> and H. Yang'
+  venue: Operations Research
+  status: Major revision
+  tag: Stochastic optimization
+  image: /images/research/lagrangian.svg
+  image_alt: Schematic of cutting-plane approximations to a value function
+  summary: Enhanced Lagrangian cuts for solving multistage stochastic mixed-integer programs.
+  links:
+    - label: Preprint
+      url: https://optimization-online.org/2025/04/globally-converging-algorithm-for-multistage-stochastic-mixed-integer-programs-via-enhanced-lagrangian-cuts/
+
+- id: inner-convex-approximation
+  group: working
+  title: Faster Inner Convex Approximation to Wasserstein Joint Chance Constrained Power System Dispatch
+  authors: 'Y. Zhou, <strong>H.-B. Yang</strong>, and T. Morstyn'
+  venue: IEEE Transactions on Power Systems
+  status: Submitted
+  tag: Chance constraints
+  image: /images/research/fica.png
+  image_alt: Computational comparison of inner approximations for chance-constrained dispatch
+  summary: An inner convex approximation for power-system dispatch with Wasserstein joint chance constraints.
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2506.18806
+
+- id: local-dantzig-wolfe-cuts
+  group: working
+  title: Locally Valid Dantzig–Wolfe Optimality Cuts for Stochastic Mixed-Integer Programs
+  authors: '<strong>H.-B. Yang</strong> and G. Lyu'
+  venue: Mathematical Programming
+  status: Submitted
+  tag: Decomposition
+  image: /images/research/dantzig-wolfe.svg
+  image_alt: Schematic of a locally valid cut over a restricted region
+  summary: Dantzig–Wolfe optimality cuts that use restricted regions in stochastic mixed-integer optimization.
+  links:
+    - label: Preprint
+      url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7126720
+
+- id: contextual-chance-constraints
+  group: working
+  title: 'Contextual Distributionally Robust Chance Constraints: Exact Reformulations and Valid Inequalities'
+  authors: '<strong>H.-B. Yang</strong>, N. Jiang, and G. Lyu'
+  venue: Operations Research
+  status: Submitted
+  tag: Robust optimization
+  image: /images/research/contextual.png
+  image_alt: Geometry of contextual distributionally robust chance constraints
+  summary: Exact reformulations and valid inequalities for chance constraints that incorporate contextual information.
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2609.23739
+
+- id: safety-certification
+  group: working
+  title: Finite-Sample Probabilistic Safety Certification for AI-Based Grid Operation
+  authors: 'Y. Zhou, <strong>H.-B. Yang</strong>, and T. Morstyn'
+  venue: IEEE Transactions on Smart Grid
+  status: Submitted
+  tag: Safety certification
+  image: /images/research/safety.png
+  image_alt: Safety certification results for AI-based grid operation
+  summary: Finite-sample probabilistic safety certificates for AI-based power-grid operations.
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2609.28182
+
+- id: matroid-congestion
+  group: working
+  title: Upper Bounds for Symmetric Matroid Congestion Games from Exchange Flow Expansion
+  authors: '(α-β) B. Hao, C. Michini, and <strong>H.-B. Yang<sup>⋆</sup></strong>'
+  venue: IPCO 2026
+  status: To be submitted
+  tag: Game theory
+  image: /images/research/matroid.svg
+  image_alt: Schematic of exchanges between two sets in a matroid
+  summary: Exchange-flow analysis of upper bounds in symmetric matroid congestion games.
+
+- id: integral-valid-cuts
+  group: working
+  title: Integral-Valid Cut Selection for Benders Decomposition
+  authors: '(α-β) K. Fang and <strong>H.-B. Yang<sup>⋆</sup></strong>'
+  venue: INFORMS Journal on Computing
+  status: To be submitted
+  tag: Benders decomposition
+  image: /images/research/integral-cuts.svg
+  image_alt: Schematic of selecting cuts for integer feasible points
+  summary: Cut selection for Benders decomposition with integer decision variables.

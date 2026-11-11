@@ -1,0 +1,15 @@
+<li class="paper-entry" id="{{ paper.id }}">
+  <div class="paper-visual">
+    <span class="paper-tag">{{ paper.tag }}</span>
+    <img src="{{ paper.image | relative_url }}" alt="{{ paper.image_alt | escape }}" width="320" height="210" loading="lazy">
+  </div>
+  <div class="paper-copy">
+    <h3>{% if paper.links %}<a href="{{ paper.links.first.url }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}</h3>
+    <p class="paper-authors">{{ paper.authors }}</p>
+    <p class="paper-venue"><em>{{ paper.venue }}</em> · {{ paper.status }}</p>
+    <p class="paper-summary">{{ paper.summary }}</p>
+    {% if paper.links %}<div class="paper-links">
+      {% for link in paper.links %}<a class="pill-link" href="{% if link.url contains '://' %}{{ link.url }}{% else %}{{ link.url | relative_url }}{% endif %}">{{ link.label }}</a>{% endfor %}
+    </div>{% endif %}
+  </div>
+</li>
