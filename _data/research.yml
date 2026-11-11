@@ -124,8 +124,7 @@
   group: working
   title: Upper Bounds for Symmetric Matroid Congestion Games from Exchange Flow Expansion
   authors: '(α-β) B. Hao, C. Michini, and <strong>H.-B. Yang<sup>⋆</sup></strong>'
-  venue: IPCO 2026
-  status: To be submitted
+  status: Submitted
   tag: Game theory
   image: /images/research/matroid.svg
   image_alt: Schematic of exchanges between two sets in a matroid
@@ -135,7 +134,6 @@
   group: working
   title: Integral-Valid Cut Selection for Benders Decomposition
   authors: '(α-β) K. Fang and <strong>H.-B. Yang<sup>⋆</sup></strong>'
-  venue: INFORMS Journal on Computing
   status: To be submitted
   tag: Benders decomposition
   image: /images/research/integral-cut-planes.png
