@@ -10,6 +10,7 @@ subtitle: Publications and working papers in stochastic optimization, decomposit
   <p>Find my citation record on <a href="{{ site.author.googlescholar }}">Google Scholar</a>.</p>
   <nav aria-label="Publication sections"><a href="#published">Published &amp; accepted</a><a href="#working-papers">Working papers</a></nav>
 </div>
+<p class="paper-authors">⋆ denotes the corresponding author.</p>
 <section class="paper-section" id="published" aria-labelledby="published-heading">
   {% assign published = site.data.research | where: 'group', 'published' %}
   <h2 class="paper-section-heading" id="published-heading">Published &amp; accepted <small>{{ published.size }}</small></h2>
