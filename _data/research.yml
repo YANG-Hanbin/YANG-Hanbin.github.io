@@ -133,7 +133,7 @@
 - id: integral-valid-cuts
   group: working
   title: Integral-Valid Cut Selection for Benders Decomposition
-  authors: '(α-β) K. Fang and <strong>H.-B. Yang<sup>⋆</sup></strong>'
+  authors: 'K. Fang and <strong>H.-B. Yang<sup>⋆</sup></strong>'
   status: To be submitted
   tag: Benders decomposition
   image: /images/research/integral-cut-planes.png
